@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScientificMath", "ScientificMath\ScientificMath.csproj", "{96066A82-4C7D-438B-ABAE-C2B95B9AA128}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScientificMath.Tests", "ScientificMath.Tests\ScientificMath.Tests.csproj", "{537B926F-9188-47B2-9725-D86172ACAC3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96066A82-4C7D-438B-ABAE-C2B95B9AA128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96066A82-4C7D-438B-ABAE-C2B95B9AA128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96066A82-4C7D-438B-ABAE-C2B95B9AA128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96066A82-4C7D-438B-ABAE-C2B95B9AA128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537B926F-9188-47B2-9725-D86172ACAC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537B926F-9188-47B2-9725-D86172ACAC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537B926F-9188-47B2-9725-D86172ACAC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537B926F-9188-47B2-9725-D86172ACAC3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A589D2CE-CCCA-4C5F-AF3D-09C3A5252D93}
+	EndGlobalSection
+EndGlobal
